@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+	background-color: #f5f5f5;
+	padding: 30px;
+	width: 80%;
+	margin: 20px auto;
+
+	display: flex;
+	flex-direction: column;
+    gap: 20px;
+}
+
+.testimonial-box{
+	border: 1px solid white;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	padding: 15px 20px;
+}
+
+.author{
+	align-self: flex-end;
+	font-style: italic;
+	margin-top: 10px;
+}
