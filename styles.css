@@ -10,6 +10,11 @@
     gap: 20px;
 }
 
+.container h2{
+	margin: 0;
+	font-size: 24px;
+}
+
 .testimonial-box{
 	border: 1px solid white;
 	background-color: white;
